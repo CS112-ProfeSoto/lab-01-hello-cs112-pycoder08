@@ -1,5 +1,12 @@
+/**
+ * Represents a die that has rolled one number facing upwards
+ * Version 1.0
+ * @author Muhammad Conn
+ * 
+ **/
+
 /*
- * UML DIAGRAM
+ * UML CLASS DIAGRAM:
  * --------------------------
  * Dice
  * -------------------------- 
