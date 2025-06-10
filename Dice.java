@@ -1,3 +1,18 @@
+/*
+ * UML DIAGRAM
+ * --------------------------
+ * Dice
+ * -------------------------- 
+ * - rollNum: int
+ * --------------------------
+ * + toString: String
+ * + setRollNum(int): void
+ * + getRollNum: int
+ * + Dice()
+ * + Dice(int)
+ * + Dice(Dice)
+ * + equals(): boolean
+ */
 public class Dice {
     /* INSTANCE VARIABLES */
     private int rollNum;
