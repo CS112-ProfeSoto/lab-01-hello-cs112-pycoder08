@@ -1,5 +1,6 @@
 /**
  * Represents a die that has rolled one number facing upwards
+ * Class Invariant: Every object must only have a rollNum value from 1 - 6
  * Version 1.0
  * @author Muhammad Conn
  * 
